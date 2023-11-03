@@ -24,18 +24,6 @@ Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 This file contains various environment variables that you can configure.
 
-# Running the storybook
-
-We have detected common components and have generated possible variants of it.To check the documentation of generated common components by integrating storybook, Please follow below steps.
-
-## Install and Initializes
-
-      npx storybook init
-
-## Run the Storybook
-
-      npm run storybook
-
 ## Folder Structure
 
 ```
